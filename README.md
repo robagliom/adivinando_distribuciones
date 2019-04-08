@@ -1,5 +1,5 @@
-<h1># determinando_distribuciones</h1>
+<h1>Determinando Distribuciones</h1>
 
-Dados 3 archivos con datos, queremos conocer a qué distribución corresonden.
+Dados 3 archivos con datos, queremos conocer a qué distribución corresponden.
 
 <b>Jupyter-notebook:</b> https://github.com/robagliom/determinando_distribuciones/blob/master/determinar_distribucion.ipynb
